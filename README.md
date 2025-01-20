@@ -1,4 +1,3 @@
-![logo](https://github.com/FatimaAbbas567/FatimaAbbas567/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Fatima</h1>
 <h3 align="center">A passionate Data Scientist..!!</h3>
 
